@@ -5,11 +5,8 @@
     multiples of both three and five print “FizzBuzz”.
 */
 
-
-
 function fizzBuzz(n) {
-    // Code goes here
+  // Code goes here
 }
 
-
-module.exports = fizzBuzz
+module.exports = fizzBuzz;

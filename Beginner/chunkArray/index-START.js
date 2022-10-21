@@ -5,8 +5,7 @@
 */
 
 function chunkArray(array, size) {
-    // Code goes here
+  // Code goes here
 }
 
-
-module.exports = chunkArray
+module.exports = chunkArray;
